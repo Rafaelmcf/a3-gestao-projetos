@@ -51,8 +51,13 @@ O objetivo deste projeto é aplicar conceitos de Programação Orientada a Objet
 2. Abra em uma IDE Java
 3. Execute o arquivo Main.java
 
-## 👨‍💻 Autor
+## 👥 Integrantes do Grupo
 
-Rafael Figueiredo
+- Rafael de Matos Correa Figueiredo
+- Herbert Bezerra da Silva Lima
+- Carolina Setti de Avila
+- Emanuel Santos Pires
 
-Projeto acadêmico desenvolvido para a disciplina de Gestão de Projetos.
+## 🎓 Projeto Acadêmico
+
+Projeto desenvolvido para a disciplina de Gestão de Projetos utilizando Java, Programação Orientada a Objetos (POO) e arquitetura MVC (Model-View-Controller).
